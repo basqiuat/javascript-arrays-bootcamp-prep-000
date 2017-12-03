@@ -46,11 +46,17 @@ function destructivelyRemoveElementFromBeginningOfArray(){
   
 }  
   
-  removeElementFromBeginningOfArray
+function removeElementFromBeginningOfArray(){
   
-  destructivelyRemoveElementFromEndOfArray
+}
   
-  removeElementFromEndOfArray
+function destructivelyRemoveElementFromEndOfArray(){
+  
+}
+  
+function removeElementFromEndOfArray(){
+  
+}
   
   
   
