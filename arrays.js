@@ -38,6 +38,13 @@ function destructivelyAddElementToEndOfArray(){
   
 }
   
+function accessElementInArray(){
+  
+}
+  
+  
+  
+  
   
   
   
