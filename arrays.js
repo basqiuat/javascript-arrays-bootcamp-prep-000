@@ -48,7 +48,7 @@ function destructivelyRemoveElementFromBeginningOfArray(){
   
   removeElementFromBeginningOfArray
   
-  
+  destructivelyRemoveElementFromEndOfArray
   
   
   
