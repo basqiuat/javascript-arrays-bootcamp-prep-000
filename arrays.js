@@ -42,6 +42,11 @@ function accessElementInArray(){
   
 }
   
+function destructivelyRemoveElementFromBeginningOfArray(){
+  
+}  
+  
+  
   
   
   
