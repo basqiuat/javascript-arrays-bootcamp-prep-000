@@ -46,6 +46,8 @@ function destructivelyRemoveElementFromBeginningOfArray(){
   
 }  
   
+  removeElementFromBeginningOfArray
+  
   
   
   
